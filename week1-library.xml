@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<Library>
+	<Book category="technical-books">
+		<NumberOfBooks>1</NumberOfBooks>
+		<ISBN>54624891348</ISBN>
+		<Title>Road of the ring</Title>
+		<Author>Joe Duffy</Author>
+	</Book>
+	<Book category="technical-book">
+		<NumberOfBooks>2</NumberOfBooks>
+		<ISBN>69277</ISBN>
+		<Title>Beauty and the beast</Title>
+		<Author>Adam Sandlar</Author>
+	</Book>
+	
+	
+	<Book category="cookery-books">
+		<NumberOfBooks>1</NumberOfBooks>
+		<ISBN>3675828</ISBN>
+		<Title>Naked chef</Title>
+		<Author>Jamie Oliver</Author>
+	</Book>
+	
+	<Book category="cookery-books">
+		<NumberOfBooks>2</NumberOfBooks>
+		<ISBN>28284747</ISBN>
+		<Title>Kale to love</Title>
+		<Author>James Bond</Author>
+	</Book>
+</Library>
